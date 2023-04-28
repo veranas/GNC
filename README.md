@@ -10,6 +10,6 @@ GNC-TLS (Truncated Least Squared) will start by weighting the function to be hig
 ICP (Iterative Closest Point) uses an unweighted version of the Iterative Closest Point algorithm.
 
 # Getting Started
-Running main.py will run a demo with 200 iterations of each of the 3 algorithms present, with a custom randomly generated dataset.
+Running **main.py** will run a demo with 200 iterations of each of the 3 algorithms present, with a custom randomly generated dataset.
 
-Running samples.py will create a series of 3D plotly plots that demonstrate the results of the 3 algorithms in action
+Running **samples.py** will create a series of 3D plotly plots that demonstrate the results of the 3 algorithms in action
